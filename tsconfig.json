@@ -1,0 +1,9 @@
+{
+  "extends": "./.nuxt/tsconfig.json",
+  "compilerOptions": {
+    "target": "ESNext",
+    "types": [
+      "vite-plugin-pwa/client"
+    ]
+  }
+}
